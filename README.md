@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I am currently in TripleTens Software Engineering Bootcamp
+- I am currently working on graduating and getting into the work force
+- Currently I am a construction project manager with a love for introducing tech into the world of construction.
 <!--
 **Ch-andler/Ch-andler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
