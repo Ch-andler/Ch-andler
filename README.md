@@ -5,7 +5,7 @@
 - Currently I am a construction project manager with a love for introducing tech into the world of construction.
 - Skills: HTML/CSS, Git, GitHub, VSCode, Figma, Javascript.
 
-- How to reach me: Chandlerpedini@gmail.com
+
 <!--
 **Ch-andler/Ch-andler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
