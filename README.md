@@ -3,6 +3,7 @@
 - I am currently in TripleTens Software Engineering Bootcamp
 - I am currently working on Javascript 
 - Currently I am a construction project manager with a love for introducing tech into the world of construction.
+- Skills: HTML/CSS, Git, GitHub, VSCode, Figma, Javascript.
 
 - How to reach me: Chandlerpedini@gmail.com
 <!--
